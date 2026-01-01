@@ -23,10 +23,10 @@ repository               : "Pjofy/Pjofy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.png"
+  avatar           : "images/profile.png"
   name             : "Pablo"
   pronouns         : "he/him"  
-  bio              : "1st year student @ Erasmus Univeristy College"
+  bio              : "Undergrad Student"
   location         : "The Netherlands"
   employer         : "Erasmus University Rotterdam"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

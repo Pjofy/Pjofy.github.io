@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-# * M.S. in Jekyll, GitHub University, 2014
 * Bsc. in Liberal Arts and Sciences (Major in Neuroscience) , Erasmus University Rotterdam, 2025-
 
 Work experience
