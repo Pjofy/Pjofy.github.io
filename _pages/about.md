@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year undergraduate student at the Erasmus Univeristy College in Rotterdam, The Netherlands
+I'm a first year Neuroscience undergraduate student at the Erasmus Univeristy College in Rotterdam, The Netherlands
 
-My research focuses on ....
+My interests are very broad and range from molecular biology all the way to neurotechnology
 
 
 For more info
